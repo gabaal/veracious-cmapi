@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mkm-api-java-master/dist/mkm-api-java-0.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mkm-api-java-master/dist/mkm-api-java-0.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mkm-api-java-master/dist/mkm-api-java-0.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mkm-api-java-master/dist/mkm-api-java-0.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mkm-api-java-master/dist/mkm-api-java-0.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mkm-api-java-master/dist/mkm-api-java-0.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mkm-api-java-master/dist/mkm-api-java-0.9.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
